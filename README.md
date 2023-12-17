@@ -1,2 +1,2 @@
-# War_News_and_History
+# Collecting war news
 Individual project
